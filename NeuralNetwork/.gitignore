@@ -1,0 +1,27 @@
+# Jupyter notebook cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model and data files
+*.h5
+*.keras
+*.ckpt
+*.pkl
+*.joblib
+*.csv
+*.npz
+*.npy
+
+# VEs
+venv/
+.env/
+.venv/
+
+# OS specific
+.DS_Store
+Thumbs.db
